@@ -16,7 +16,7 @@ BlazePay (bpay) is a high-performance blockchain-based payment system built on t
 - **Low Transaction Fees**: BlazePay benefits from the low fees associated with the Solana blockchain, making it an affordable solution for users.
 
 ![Payment Confirmation](./images/payment-confirmation.png)
-![Balance Check]](./images/balance-check.png)
+![Balance Check](./images/balance-check.png)
 
 ## Installation
 
