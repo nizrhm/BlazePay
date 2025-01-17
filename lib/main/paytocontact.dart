@@ -8,8 +8,8 @@ import 'package:solana_pay/main/txn.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:twilio_flutter/twilio_flutter.dart';
 
-class TwilioConfig {
-}
+#class TwilioConfig {
+#}
 
 class PayToContactScreen extends StatefulWidget {
   final String? initialRecipientAddress;

@@ -7,12 +7,6 @@ import 'package:solana_pay/phone_authentication/password_Creation.dart';
 import 'package:pinput/pinput.dart';
 import 'package:twilio_flutter/twilio_flutter.dart';
 
-class TwilioConfig {
-  static const String accountSid = 'AC8ff1cb55656c5cd713292db3eebd828d';
-  static const String authToken = '3e7007eb32e423373e7aeb3485cac39a';
-  static const String twilioNumber = '+19893037890';
-}
-
 // Phone Number Input Screen
 class PhoneAuthScreen extends StatefulWidget {
   const PhoneAuthScreen({Key? key}) : super(key: key);
