@@ -9,9 +9,6 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:twilio_flutter/twilio_flutter.dart';
 
 class TwilioConfig {
-  static const String accountSid = 'AC8ff1cb55656c5cd713292db3eebd828d';
-  static const String authToken = '3e7007eb32e423373e7aeb3485cac39a';
-  static const String twilioNumber = '+19893037890';
 }
 
 class PayToContactScreen extends StatefulWidget {
